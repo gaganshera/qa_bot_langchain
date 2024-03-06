@@ -32,6 +32,6 @@
 
   `node chat`
 
-<!-- ## Demo recording -->
-  <!-- ![Demo](./chat_recording.mov "Demo") -->
-  
+## Demo recording
+  ![Demo](./chat_recording.mov "Demo")
+  <video src="./chat_recording.mov"/>
