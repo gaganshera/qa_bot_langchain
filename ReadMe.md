@@ -33,6 +33,7 @@
   `node chat`
 
 ## Demo recording
-  <video src="https://github.com/gaganshera/qa_bot_langchain/raw/master/chat_recording.mov"/>
+  ![Architecture](./chat_recording.mov "Architecture")
+  <video src="./chat_recording.mov"/>
 
-  https://github.com/gaganshera/qa_bot_langchain/raw/master/chat_recording.mov
+  chat_recording.mov
