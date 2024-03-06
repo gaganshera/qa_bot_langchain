@@ -33,5 +33,4 @@
   `node chat`
 
 ## Demo recording
-  ![Demo](./chat_recording.mov "Demo")
-  <video src="./chat_recording.mov"/>
+  <video src="https://github.com/gaganshera/qa_bot_langchain/blob/master/chat_recording.mov"/>
