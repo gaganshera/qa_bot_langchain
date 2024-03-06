@@ -32,6 +32,6 @@
 
   `node chat`
 
-<!-- ## Demo recording -->
-  <!-- ![Demo](./chat_recording.mov "Demo") -->
-  
+## Demo recording
+
+https://github.com/gaganshera/qa_bot_langchain/assets/7510079/0a8a7c4b-f1b2-4452-bc07-11960ba58455
