@@ -13,8 +13,6 @@
 - Node.js 18+
 - OpenAI API key
 
-  Paste the OpenAI API ket in the `OPENAI_API_KEY` variable in `.env` file.
-
 ## Installation
 - Clone repository
 
@@ -23,6 +21,8 @@
 - Go to the directory
 
   `cd qa_bot_langchain`
+
+- Paste the OpenAI API ket in the `OPENAI_API_KEY` variable in `.env` file.
 
 - Install dependencies
 
