@@ -34,3 +34,5 @@
 
 ## Demo recording
   <video src="https://github.com/gaganshera/qa_bot_langchain/blob/master/chat_recording.mov"/>
+
+  https://github.com/gaganshera/qa_bot_langchain/blob/master/chat_recording.mov
